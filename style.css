@@ -27,15 +27,7 @@ body{
     text-align: center;
     color: hsl(193, 38%, 86%);
 }
-.divider {
-    margin: 0 auto;
-    position: absolute;
-    width: 90%;
-    left: 50%;
-    bottom: 20%;
-    transform: translate(-50%);
 
-}
 .divider img{
     display: block;
     margin: 0 auto;
